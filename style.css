@@ -1012,7 +1012,7 @@ a#sidemenu_toggle {
 }
 .slider-image img {
     top: unset;
-    width: 120%;
+    width: 50%;
     right: 200px;
     position: absolute;
     max-width: unset;
