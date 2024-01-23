@@ -591,8 +591,8 @@ span.nmbrlist {
     color: #000 !important;
 }
 section#program {
-    background: linear-gradient(to bottom right, #995900, #d7b02f, #fbb800, #d7b02f, #d7b02f, #995900);
-    color: #000;
+    background: linear-gradient(to bottom right, #040403, #9f9f9f, #858585, #0e0e0e, #f3f3f3, #676056);
+    color: #fff;
 }
 h2.heading.main-font.my-4.titlesmb {
     text-align: center;
