@@ -33,7 +33,7 @@ font-weight: bold;
 }
 
 img {
-max-width: 75%;
+max-width: 100%;
 }
 
 .ag-format-container {
@@ -820,7 +820,7 @@ section#program img {
     padding-bottom: 40px;
 }
 .row.align-items-center.diagramnya {
-    background: #9d6029;
+    background: #6d7150;
     border-radius: 50px;
     box-shadow: 5px 5px 15px #000000fa;
     margin-bottom: 40px;
