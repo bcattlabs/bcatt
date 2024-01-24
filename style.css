@@ -33,7 +33,7 @@ font-weight: bold;
 }
 
 img {
-max-width: 75%;
+max-width: 100%;
 }
 
 .ag-format-container {
@@ -1283,8 +1283,8 @@ header.header-appear img {
     background: #000;
 }
 section#partner img {
-    max-width: 70%;
-    margin-left: 14%;
+    max-width: 30%;
+    margin-left: 35%;
     margin-top: 15px;
 }
 section#komunitas .row.align-items-center {
