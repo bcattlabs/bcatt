@@ -33,7 +33,7 @@ font-weight: bold;
 }
 
 img {
-max-width: 100%;
+max-width: 75%;
 }
 
 .ag-format-container {
@@ -390,7 +390,7 @@ section#contact {
     background: #32373a;
 }
 section#partner {
-    background: #fbb800;
+    background: #adb7c1;
     color:#000;
 }
 .about_img {
@@ -552,7 +552,7 @@ section#about {
     background: #6660;
 }
 .text-red {
-    color: #33d0e3;
+    color: #f7fdfd;
 }
 h4.heading.main-font {
     color: #d7b02f;
@@ -871,7 +871,7 @@ section#program img {
 }
 section#copyright {
     padding: 0px;
-    background: #fbb800;
+    background: #adb7c1;
     color: #000;
     font-weight: 500;
 }
