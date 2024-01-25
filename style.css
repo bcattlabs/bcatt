@@ -744,11 +744,11 @@ section#testimonials {
 }
 .slider-image img {
     top: unset;
-    width: 45%;
+    width: 80%;
     right: 200px;
     position: absolute;
     max-width: unset;
-    right: -20px;
+    right: 90px;
     bottom: -5px;
 }
 .topnav a:hover {
@@ -1217,12 +1217,12 @@ div#slider-area h2 {
 }
 .slider-image img {
     top: auto;
-    width: 35%;
+    width: 90%;
     right: 200px;
     position: relative;
     max-width: unset;
-    right: -120px;
-    bottom: -50px;
+    right: -10px;
+    bottom: 55px;
 }
 .slider-area .content-margin {
     padding-top: 150px;
