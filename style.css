@@ -33,7 +33,7 @@ font-weight: bold;
 }
 
 img {
-max-width: 100%;
+max-width: 110%;
 }
 
 .ag-format-container {
@@ -140,7 +140,7 @@ border-radius: 50%;
 }
 .js-ag-active .ag-timeline-card_point {
 color: #1d1d1b;
-background-color: #04cad5;
+background-color: #0fbef5;
 }
 .ag-timeline-card_meta-box {
 display: inline-block;
@@ -390,7 +390,7 @@ section#contact {
     background: #32373a;
 }
 section#partner {
-    background: #adb7c1;
+    background: #ffffff;
     color:#000;
 }
 .about_img {
@@ -591,17 +591,17 @@ span.nmbrlist {
     color: #000 !important;
 }
 section#program {
-    background: linear-gradient(to bottom right, #040403, #9f9f9f, #858585, #0e0e0e, #f3f3f3, #676056);
+    background: linear-gradient(to bottom right, #007bff, #9f9f9f, #d5d1d1, #007bff, #ffffff, #67635d);
     color: #fff;
 }
 h2.heading.main-font.my-4.titlesmb {
     text-align: center;
     font-size: 48px;
     font-weight: bold;
-    color: #d7b02f;
+    color: #0fbef5;
 }
 h3.subtitlesmb {
-    color: #d7b02f;
+    color: #0fbef5;
     font-weight: 700;
 }
 section#portfolio-area hr {
@@ -756,7 +756,7 @@ section#testimonials {
 }
 .header-appear .logo {
     left: 0px;
-    width: 130px;
+    width: 110px;
     height: 100px;
 }
 header.header-appear img {
@@ -1257,10 +1257,10 @@ h2.heading.main-font.my-4.titlesmb {
     text-align: center;
     font-size: 32px;
     font-weight: bold;
-    color: #d7b02f;
+    color: #0fbef5;
 }
 h3.subtitlesmb {
-    color: #d7b02f;
+    color: #0fbef5;
     font-weight: 700;
     font-size: 20px;
 }
