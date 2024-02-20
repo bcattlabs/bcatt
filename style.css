@@ -667,6 +667,22 @@ li.birux::before {
     left: 30px;
     margin-top: 0px;
 }
+li.aquax::before {
+    content: "•";
+    color: #00ffff;
+    font-size: 70px;
+    position: absolute;
+    left: 30px;
+    margin-top: 0px;
+}
+li.perux::before {
+    content: "•";
+    color: #cd853f;
+    font-size: 70px;
+    position: absolute;
+    left: 30px;
+    margin-top: 0px;
+}
 .portfolio {
     padding: 0;
     background: #32373a00;
