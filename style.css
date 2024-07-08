@@ -268,7 +268,7 @@ color: #FFF;
     left: 0px;
 }
 body {
-    background: url(images/pxfuel.jpg);
+    background: url(images/giphyxx.webp);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -370,8 +370,8 @@ a.scroll img {
     background: #ffdc7b;
 }
 section#program {
-    background: linear-gradient(to bottom right, #995900, #fbb800, #fbb800, #fbb800, #fbb800, #995900);
-    color: #000;
+    background: linear-gradient(transparant);
+    color: #ffffff;
 }
 .heading-area ol li {
     text-align: left;
@@ -390,7 +390,7 @@ section#contact {
     background: #32373a;
 }
 section#partner {
-    background: #d7d4ba;
+    background: #adb7c1;
     color:#000;
 }
 .about_img {
@@ -484,7 +484,7 @@ section#partner {
 
 
 section#about {
-    background: url(images/bg-gold.jpg);
+    background: url(#);
     background-size: cover;
 }
 .about-heading .heading {
@@ -494,7 +494,7 @@ section#about {
     font-weight: 800;
 }
 .about-heading p {
-    color: #000 !important;
+    color: #f7f7f7 !important;
     font-weight: 500 !IMPORTANT;
     opacity: 1 !important;
 }
@@ -546,7 +546,7 @@ section#about {
     font-weight: bold;
     font-family: sans-serif;
     font-weight: 800;
-    color: #000;
+    color: #04cad5;
 }
 .tekno {
     background: #6660;
@@ -588,20 +588,17 @@ span.nmbrlist {
 #program .heading-area .heading {
     font-size: 48px;
     font-weight: bold;
-    color: #000 !important;
-}
-section#program {
-    background: linear-gradient(to bottom right, #007bff, #9f9f9f, #d5d1d1, #007bff, #ffffff, #67635d);
-    color: #fff;
+    color: #ffffff !important;
+
 }
 h2.heading.main-font.my-4.titlesmb {
     text-align: center;
     font-size: 48px;
     font-weight: bold;
-    color: #0fbef5;
+    color: #04cad5;
 }
 h3.subtitlesmb {
-    color: #0fbef5;
+    color: #04cad5;
     font-weight: 700;
 }
 section#portfolio-area hr {
@@ -836,9 +833,9 @@ section#program img {
     padding-bottom: 40px;
 }
 .row.align-items-center.diagramnya {
-    background: #4b4545;
+    background: #transparant;
     border-radius: 50px;
-    box-shadow: 5px 5px 15px #000000fa;
+    box-shadow: 5px 5px 15px #;
     margin-bottom: 40px;
 }
 #chart_wrap {
